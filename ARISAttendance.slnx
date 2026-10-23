@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ARISAttendance/ARISAttendance.csproj" />
+  <Project Path="ARISAttendanceInstaller/ARISAttendanceInstaller.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>
